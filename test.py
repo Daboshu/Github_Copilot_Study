@@ -13,5 +13,4 @@ def print_narcissistic_numbers(n):
 print_narcissistic_numbers(3)
 # 调用函数打印4位数的水仙花数
 print_narcissistic_numbers(4)
-# 调用函数打印5位数的水仙花数
-print_narcissistic_numbers(5)
+
